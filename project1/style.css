@@ -180,7 +180,7 @@
 
         position: relative;
         padding: 10%;
-        background-image: linear-gradient(to top, #021435, transparent 50%), url("PlayStation/original.jpg");
+        background-image: linear-gradient(to top, #021435, transparent 50%), url("playstation/original.jpg");
         background-size: cover;
 
     }
@@ -191,7 +191,7 @@
 
         position: relative;        
         padding: 10%;
-        background-image: linear-gradient(to top, #021435, transparent 50%), url("Xbox/sunset.jpg");
+        background-image: linear-gradient(to top, #021435, transparent 50%), url("xbox/sunset.jpg");
         background-size: cover;
     }
 
@@ -199,7 +199,7 @@
 
         position: relative;
         padding: 10%;  
-        background-image:  linear-gradient(to top, #021435, transparent 50%), url("Nintendo/arms.jpg");
+        background-image:  linear-gradient(to top, #021435, transparent 50%), url("nintendo/arms.jpg");
         background-size: cover; 
 
 
@@ -335,7 +335,7 @@
 
     .nintendobarner {
         
-        background-image: url("Barners/arms.jpg");
+        background-image: url("barners/arms.jpg");
         width: 100%;
         height: 300px;
         background-size: 100%;
@@ -345,7 +345,7 @@
 
     .xboxbarner {
         
-        background-image: url("Barners/xbox.jpg");
+        background-image: url("barners/xbox.jpg");
         width: 100%;
         height: 300px;
         background-size: 100%;
@@ -356,7 +356,7 @@
 
     .pcbarner {
         
-        background-image: url("Barners/darksiders.png");
+        background-image: url("barners/darksiders.png");
         width: 100%;
         height: 300px;
         background-size: 100%;
@@ -367,7 +367,7 @@
 
     .playstationbarner {
         
-        background-image: url("Barners/playstation.png");
+        background-image: url("barners/playstation.png");
         width: 100%;
         height: 300px;
         background-size: 100%;
@@ -377,7 +377,7 @@
 
     .barner {
         
-        background-image: url("PlayStation/horizon.jpg");
+        background-image: url("playStation/horizon.jpg");
         width: 100%;
         height: 400px;
         background-size: 100%;
@@ -436,7 +436,7 @@
 
         position: relative;
         padding: 10%;
-        background-image: linear-gradient(to top, #021435, transparent 50%), url("Nintendo/smashultimate.png");
+        background-image: linear-gradient(to top, #021435, transparent 50%), url("nintendo/smashultimate.png");
         background-size: cover;
 
     }
@@ -447,14 +447,14 @@
 
         position: relative;        
         padding: 10%;
-        background-image: linear-gradient(to top, #021435, transparent 50%), url("Nintendo/mario.jpg");
+        background-image: linear-gradient(to top, #021435, transparent 50%), url("nintendo/mario.jpg");
         background-size: cover;
     }
 
 
     .smashbarner {
         
-        background-image: url("Nintendo/smashultimate.png");
+        background-image: url("nintendo/smashultimate.png");
         width: 100%;
         height: 400px;
         background-size: 100%;
@@ -464,7 +464,7 @@
 
     .pcbarner2 {
         
-        background-image: url("PC/biomutant.jpg");
+        background-image: url("pc/biomutant.jpg");
         width: 100%;
         height: 400px;
         background-size: 100%;
@@ -474,7 +474,7 @@
 
     .playbarner {
         
-        background-image: url("PlayStation/echo.jpg");
+        background-image: url("playstation/echo.jpg");
         width: 100%;
         height: 400px;
         background-size: 100%;
@@ -484,7 +484,7 @@
 
     .xbarner {
         
-        background-image: url("Xbox/lara.jpg");
+        background-image: url("xbox/lara.jpg");
         width: 100%;
         height: 400px;
         background-size: 100%;
@@ -500,7 +500,7 @@
 
         position: relative;
         padding: 10%;
-        background-image: linear-gradient(to top, #021435, transparent 50%), url("PC/fortnine.jpg");
+        background-image: linear-gradient(to top, #021435, transparent 50%), url("pc/fortnine.jpg");
         background-size: cover;
 
     }
@@ -511,7 +511,7 @@
 
         position: relative;        
         padding: 10%;
-        background-image: linear-gradient(to top, #021435, transparent 50%), url("PC/overwatch.jpg");
+        background-image: linear-gradient(to top, #021435, transparent 50%), url("pc/overwatch.jpg");
         background-size: cover;
     }
 
@@ -519,7 +519,7 @@
 
         position: relative;        
         padding: 10%;
-        background-image: linear-gradient(to top, #021435, transparent 50%), url("PC/biomutant.jpg");
+        background-image: linear-gradient(to top, #021435, transparent 50%), url("pc/biomutant.jpg");
         background-size: cover;
     }
 
@@ -534,7 +534,7 @@
 
         position: relative;        
         padding: 10%;
-        background-image: linear-gradient(to top, #021435, transparent 50%), url("Xbox/Anthem.jpg");
+        background-image: linear-gradient(to top, #021435, transparent 50%), url("xbox/Anthem.jpg");
         background-size: cover;
     }
 
@@ -542,7 +542,7 @@
 
         position: relative;        
         padding: 10%;
-        background-image: linear-gradient(to top, #021435, transparent 50%), url("Xbox/forza.jpg");
+        background-image: linear-gradient(to top, #021435, transparent 50%), url("xbox/forza.jpg");
         background-size: cover;
     }
 
@@ -556,7 +556,7 @@
 
         position: relative;        
         padding: 10%;
-        background-image: linear-gradient(to top, #021435, transparent 50%), url("PlayStation/finalfantasy.jpg");
+        background-image: linear-gradient(to top, #021435, transparent 50%), url("playstation/finalfantasy.jpg");
         background-size: cover;
     }
 
@@ -564,7 +564,7 @@
 
         position: relative;        
         padding: 10%;
-        background-image: linear-gradient(to top, #021435, transparent 50%), url("PlayStation/daysgone.jpg");
+        background-image: linear-gradient(to top, #021435, transparent 50%), url("playstation/daysgone.jpg");
         background-size: cover;
     }
 
