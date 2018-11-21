@@ -1,4 +1,4 @@
-#Web Development - Static website
+#WebDevProject1
 
 Videogame Website written in HTML and CSS
 
