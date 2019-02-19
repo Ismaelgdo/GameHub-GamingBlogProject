@@ -3,4 +3,4 @@
 
 To access the website click the following link.
 
-https://ismaelgdo.github.io/WebDevProject1/project1/mainpage.html
+https://ismaelgdo.github.io/GameHub-GamingBlogProject/project1/mainpage.html
