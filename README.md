@@ -10,4 +10,4 @@ https://ismaelgdo.github.io/GameHub-GamingBlogProject/project1/mainpage.html
 
 
 
-![Design](https://i.imgur.com/HZGypsO.jpg)
+![Design](https://i.imgur.com/HZGypsO.jpg)\
