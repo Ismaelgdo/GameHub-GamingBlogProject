@@ -6,8 +6,10 @@ To access the website click the following link.
 https://ismaelgdo.github.io/GameHub-GamingBlogProject/project1/mainpage.html
 
 
-###  Original Design Mockup
+###  Original Design Mockup\
 
 
 
-![Design](https://i.imgur.com/HZGypsO.jpg)\
+![Design](https://i.imgur.com/HZGypsO.jpg)
+
+
