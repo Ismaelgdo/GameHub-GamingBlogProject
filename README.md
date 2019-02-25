@@ -1,11 +1,11 @@
 
-#**Videogame Blog Website solely written in HTML and CSS**
+#Videogame Blog Website solely written in HTML and CSS**
 
 To access the website click the following link.
 
 https://ismaelgdo.github.io/GameHub-GamingBlogProject/project1/mainpage.html
 
 
-###Original Design
+###Original Design Mockup
 
 ![Design](https://i.imgur.com/HZGypsO.jpg)
