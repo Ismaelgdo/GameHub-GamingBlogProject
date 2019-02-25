@@ -8,4 +8,6 @@ https://ismaelgdo.github.io/GameHub-GamingBlogProject/project1/mainpage.html
 
 ###  Original Design Mockup
 
+
+
 ![Design](https://i.imgur.com/HZGypsO.jpg)
